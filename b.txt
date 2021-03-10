@@ -1,2 +1,3 @@
-hello worldls
-thank you~!!!
+SELET * 
+  FROM INST01.TSBFACU20
+  ;
